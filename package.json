@@ -1,0 +1,22 @@
+{
+  "name": "homework-01",
+  "version": "1.0.0",
+  "description": "homework-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrii Pysarenko",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^3.3.4",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
